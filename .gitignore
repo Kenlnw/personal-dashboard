@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.papi_token
+personal.db
+*.log
+backups/
+server.log.1
+workspaces/
+*.out
+*.db-wal
+*.db-shm
+.backup_key
+*.enc
+*.db
+config.json

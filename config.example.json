@@ -1,0 +1,16 @@
+{
+  "_comment": "Copy to config.json (git-ignored) and fill in. Every key is optional.",
+  "allowed_logins": ["your-github-login@github"],
+  "docs_repos": {
+    "your-github-login/LaTeX_docs": "reports",
+    "your-github-login/Notes": "notes"
+  },
+  "link_roots": ["~/School/LaTeX_docs", "~/Notes/Notes"],
+  "backup_repo": "your-github-login/personal-api-backups",
+  "money_accounts": [
+    ["Wallet", "📱", "wallet"],
+    ["Bank", "🏦", "bank"],
+    ["Cash", "💴", "cash"],
+    ["Savings", "🪙", "savings"]
+  ]
+}

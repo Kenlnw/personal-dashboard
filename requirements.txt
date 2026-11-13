@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+mcp>=2,<3
+python-multipart
+youtube-transcript-api
+cryptography
